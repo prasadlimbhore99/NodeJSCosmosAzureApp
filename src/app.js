@@ -1,4 +1,5 @@
 // @ts-check
+//define all changes
 const CosmosClient = require('@azure/cosmos').CosmosClient
 const config = require('./config')
 const TaskList = require('./routes/tasklist')
